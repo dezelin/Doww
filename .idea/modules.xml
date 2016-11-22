@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Doww.iml" filepath="$PROJECT_DIR$/Doww.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dowwlib/dowwlib.iml" filepath="$PROJECT_DIR$/dowwlib/dowwlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doww/doww.iml" filepath="$PROJECT_DIR$/doww/doww.iml" />
     </modules>
   </component>
 </project>

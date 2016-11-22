@@ -25,8 +25,8 @@ android {
 }
 
 dependencies {
-    releaseCompile project(path: ':dowwlib', configuration: 'release')
-    debugCompile project(path: ':dowwlib', configuration: 'debug')
+    releaseCompile project(path: ':doww', configuration: 'release')
+    debugCompile project(path: ':doww', configuration: 'debug')
 
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {

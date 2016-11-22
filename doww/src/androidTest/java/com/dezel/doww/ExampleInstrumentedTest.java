@@ -1,4 +1,4 @@
-package com.dezel.dowwlib;
+package com.dezel.doww;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dezel.dowwlib.test", appContext.getPackageName());
+        assertEquals("com.dezel.doww.test", appContext.getPackageName());
     }
 }

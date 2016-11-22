@@ -1,1 +1,1 @@
-include ':app', ':dowwlib'
+include ':app', ':doww'
